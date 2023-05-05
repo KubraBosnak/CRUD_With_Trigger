@@ -1,0 +1,10 @@
+C:\Users\Kübra\source\GitHub\CRUD_With_Trigger\CRUD_With_Trigger\CRUD_With_Trigger\bin\Debug\CRUD_With_Trigger.exe.config
+C:\Users\Kübra\source\GitHub\CRUD_With_Trigger\CRUD_With_Trigger\CRUD_With_Trigger\bin\Debug\CRUD_With_Trigger.exe
+C:\Users\Kübra\source\GitHub\CRUD_With_Trigger\CRUD_With_Trigger\CRUD_With_Trigger\bin\Debug\CRUD_With_Trigger.pdb
+C:\Users\Kübra\source\GitHub\CRUD_With_Trigger\CRUD_With_Trigger\CRUD_With_Trigger\obj\Debug\CRUD_With_Trigger.csproj.AssemblyReference.cache
+C:\Users\Kübra\source\GitHub\CRUD_With_Trigger\CRUD_With_Trigger\CRUD_With_Trigger\obj\Debug\CRUD_With_Trigger.Form1.resources
+C:\Users\Kübra\source\GitHub\CRUD_With_Trigger\CRUD_With_Trigger\CRUD_With_Trigger\obj\Debug\CRUD_With_Trigger.Properties.Resources.resources
+C:\Users\Kübra\source\GitHub\CRUD_With_Trigger\CRUD_With_Trigger\CRUD_With_Trigger\obj\Debug\CRUD_With_Trigger.csproj.GenerateResource.cache
+C:\Users\Kübra\source\GitHub\CRUD_With_Trigger\CRUD_With_Trigger\CRUD_With_Trigger\obj\Debug\CRUD_With_Trigger.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\GitHub\CRUD_With_Trigger\CRUD_With_Trigger\CRUD_With_Trigger\obj\Debug\CRUD_With_Trigger.exe
+C:\Users\Kübra\source\GitHub\CRUD_With_Trigger\CRUD_With_Trigger\CRUD_With_Trigger\obj\Debug\CRUD_With_Trigger.pdb
